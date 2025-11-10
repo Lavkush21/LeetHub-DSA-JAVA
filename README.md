@@ -14,3 +14,15 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | Medium     | 120+   | 🟡    |
 | Hard       | 30+    | 🔴    |
 | **Total**  | **300+** | 🔥  |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
