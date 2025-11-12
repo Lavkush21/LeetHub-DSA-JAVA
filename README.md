@@ -35,6 +35,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1019-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
