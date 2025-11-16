@@ -20,6 +20,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -41,6 +42,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -51,6 +53,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
