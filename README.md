@@ -44,6 +44,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0001-two-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
