@@ -25,6 +25,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
@@ -35,6 +36,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
