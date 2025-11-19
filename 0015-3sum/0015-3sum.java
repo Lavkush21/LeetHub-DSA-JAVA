@@ -1,7 +1,7 @@
 class Solution {
 
     public void twoSumHelper(int f, int[] nums, List<List<Integer>> res) {
-        int i = f + 1;
+        int i = f+1;
         int j = nums.length - 1;
 
         while (i < j) {
