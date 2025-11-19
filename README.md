@@ -56,6 +56,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1019-squares-of-a-sorted-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -65,6 +66,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1019-squares-of-a-sorted-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -79,6 +81,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0142-linked-list-cycle-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,4 +108,8 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
