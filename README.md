@@ -110,6 +110,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
 ## Simulation
 |  |
