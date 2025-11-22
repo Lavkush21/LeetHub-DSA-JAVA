@@ -62,6 +62,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1019-squares-of-a-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0009-palindrome-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
