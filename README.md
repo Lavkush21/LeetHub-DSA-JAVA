@@ -69,6 +69,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
