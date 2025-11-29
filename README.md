@@ -70,6 +70,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
