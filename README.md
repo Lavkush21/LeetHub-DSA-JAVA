@@ -149,6 +149,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -214,4 +215,8 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
