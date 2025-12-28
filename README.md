@@ -137,6 +137,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
+| [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -176,6 +177,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -232,4 +234,16 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+## Design
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
