@@ -66,6 +66,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0457-circular-array-loop) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -116,6 +117,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0424-longest-repeating-character-replacement](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0457-circular-array-loop) |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -156,6 +158,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0009-palindrome-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
+| [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1925-count-square-sum-triples) |
@@ -201,6 +204,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
