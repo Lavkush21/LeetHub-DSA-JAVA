@@ -153,6 +153,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0908-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -269,4 +270,8 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
