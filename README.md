@@ -72,6 +72,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
@@ -143,6 +144,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
@@ -206,6 +208,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
@@ -214,6 +217,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Depth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Geometry
 |  |
@@ -257,4 +261,12 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
