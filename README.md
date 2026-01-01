@@ -59,6 +59,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -160,6 +161,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
