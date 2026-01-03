@@ -199,6 +199,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Stack
