@@ -76,6 +76,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1390-four-divisors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
@@ -108,6 +109,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0680-valid-palindrome-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1975-maximum-matrix-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
@@ -218,6 +220,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
 |  |
