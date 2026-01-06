@@ -225,10 +225,12 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Geometry
@@ -276,6 +278,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
@@ -285,4 +288,8 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0206-reverse-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
