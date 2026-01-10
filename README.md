@@ -48,6 +48,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0344-reverse-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
@@ -207,6 +208,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
