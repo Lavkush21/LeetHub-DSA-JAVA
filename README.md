@@ -63,6 +63,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
@@ -208,6 +209,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -217,11 +219,13 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -304,4 +308,8 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
