@@ -75,6 +75,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1019-squares-of-a-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1019-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -153,6 +154,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -202,6 +204,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -229,6 +232,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
