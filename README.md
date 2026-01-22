@@ -89,6 +89,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -202,6 +203,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
