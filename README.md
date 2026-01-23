@@ -93,6 +93,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -140,6 +141,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Divide and Conquer
@@ -175,6 +177,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -288,6 +292,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -301,6 +306,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -333,4 +339,5 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
