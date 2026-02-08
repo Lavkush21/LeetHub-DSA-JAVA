@@ -263,6 +263,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -270,6 +271,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -343,6 +345,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
