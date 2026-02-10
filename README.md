@@ -71,6 +71,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0457-circular-array-loop) |
+| [0485-max-consecutive-ones](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
