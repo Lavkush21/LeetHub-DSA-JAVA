@@ -106,6 +106,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [3625-count-number-of-trapezoids-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -154,11 +155,13 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [3623-count-number-of-trapezoids-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +330,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Ordered Set
 |  |
 | ------- |
