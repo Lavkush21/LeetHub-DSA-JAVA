@@ -55,6 +55,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2211-count-collisions-on-a-road](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3713-longest-balanced-substring-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
@@ -166,6 +168,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
+| [3713-longest-balanced-substring-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -314,6 +317,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1925-count-square-sum-triples) |
+| [3713-longest-balanced-substring-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
