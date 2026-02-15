@@ -44,6 +44,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0344-reverse-string) |
@@ -204,6 +205,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0009-palindrome-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -219,6 +221,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -229,6 +232,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
