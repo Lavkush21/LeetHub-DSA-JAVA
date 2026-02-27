@@ -58,6 +58,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [2211-count-collisions-on-a-road](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
@@ -224,6 +225,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -358,6 +360,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -368,6 +371,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -402,4 +406,8 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
