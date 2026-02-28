@@ -79,6 +79,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0457-circular-array-loop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -187,6 +188,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -257,6 +259,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
@@ -325,6 +328,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Queue
