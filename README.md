@@ -22,6 +22,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0125-valid-palindrome) |
@@ -68,6 +69,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0015-3sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
@@ -279,6 +281,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -290,6 +293,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -407,6 +411,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0085-maximal-rectangle) |
 ## Doubly-Linked List
 |  |
