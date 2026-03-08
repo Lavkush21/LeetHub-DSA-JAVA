@@ -60,6 +60,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -107,6 +108,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1929-concatenation-of-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
@@ -173,6 +175,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -399,6 +402,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
