@@ -81,6 +81,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0457-circular-array-loop) |
@@ -280,6 +281,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
