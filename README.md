@@ -90,6 +90,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0560-subarray-sum-equals-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0904-fruit-into-baskets) |
@@ -291,6 +292,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0523-continuous-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
