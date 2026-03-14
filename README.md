@@ -213,6 +213,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
@@ -246,6 +247,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0009-palindrome-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
