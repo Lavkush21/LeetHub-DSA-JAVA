@@ -54,6 +54,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -427,6 +428,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
