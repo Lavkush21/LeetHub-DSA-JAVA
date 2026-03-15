@@ -256,6 +256,7 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 | [1266-minimum-time-visiting-all-points](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -411,10 +412,12 @@ Auto-synced using **LeetHub 3.0** – every AC = one green square! 🌱
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
+| [1622-fancy-sequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/0732-my-calendar-iii) |
+| [1622-fancy-sequence](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Lavkush21/LeetHub-DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Ordered Set
